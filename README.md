@@ -30,7 +30,7 @@ _A modern, responsive book management application built with React and Tailwind 
 - **💾 Local Storage**: Persistent data storage for your reading preferences
 - **🚀 Fast Performance**: Built with Vite for optimal development and build performance
 
-## 🛠️ Tech Stack
+<h2 id="tech-stack">🛠️ Tech Stack</h2>
 
 ### Frontend Framework
 
@@ -94,7 +94,7 @@ boiPoka/
 └── 📄 eslint.config.js           # ESLint configuration
 ```
 
-## 🚀 Getting Started
+<h2 id="getting-started">🚀 Getting Started</h2>
 
 ### Prerequisites
 
