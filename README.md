@@ -19,7 +19,7 @@ _A modern, responsive book management application built with React and Tailwind 
 
 **boiPoka** is a comprehensive book management application that allows users to explore, organize, and track their reading journey. Built with modern web technologies, it provides an intuitive interface for managing personal book collections, wishlists, and reading progress.
 
-## Key Features 🎯
+## 🎯 Key Features
 
 - **📚 Book Catalog**: Browse through an extensive collection of books with detailed information
 - **🔍 Book Details**: Comprehensive book information including reviews, ratings, and metadata
