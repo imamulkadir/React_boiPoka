@@ -9,7 +9,7 @@
 
 _A modern, responsive book management application built with React and Tailwind CSS_
 
-[🚀 Live Demo](#) • [📖 Features](#features) • [🛠️ Tech Stack](#tech-stack) • [🚀 Getting Started](#getting-started)
+[🚀 Live Demo](https://ppetsboi-poka.vercel.app/) • [📖 Features](#features) • [🛠️ Tech Stack](#tech-stack) • [🚀 Getting Started](#getting-started)
 
 </div>
 
