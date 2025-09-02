@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+@import "tailwindcss";
+@plugin "daisyui";
+
+.font-work-sans {
+  font-family: "Work Sans", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+#root {
+  background-color: #323334;
+}
